@@ -1,0 +1,7 @@
+Input IP: 192.168.10.130
+Subnet Mask: 255.255.255.192
+Classless
+Network Address: 192.168.10.128
+Broadcast Address: 192.168.10.191
+Number of Hosts in this subnet: 62
+CIDR Mask: /26

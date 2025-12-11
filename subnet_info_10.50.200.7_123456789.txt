@@ -1,0 +1,7 @@
+Input IP: 10.50.200.7
+Subnet Mask: 255.240.0.0
+Classless
+Network Address: 10.48.0.0
+Broadcast Address: 10.63.255.255
+Number of Hosts in this subnet: 1048574
+CIDR Mask: /12
